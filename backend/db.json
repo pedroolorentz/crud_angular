@@ -1,4 +1,5 @@
-{   "products": [
+{
+  "products": [
     {
       "id": 1,
       "name": "Caneta BIC Preta",
@@ -13,6 +14,11 @@
       "id": 3,
       "name": "Samsung S20+",
       "price": 5000.89
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 4
     }
   ]
 }
