@@ -1,5 +1,6 @@
 {
-  "products": [{
+  "products": [
+    {
       "id": 1,
       "name": "Caneta BIC Preta",
       "price": 5.89
@@ -18,11 +19,6 @@
       "name": "Solo Leveling - Volume 01, 02 e 03",
       "price": "126.78",
       "id": 4
-    },
-    {
-      "name": "aaaaa",
-      "price": "3213",
-      "id": 5
     }
   ]
 }
